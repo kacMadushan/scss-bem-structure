@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1258159009539829760/M6GXfFgH_bigger.jpg",
+        "name": "Ruby on Wills",
+        "job": "@eggheadio",
+        "link": "williamjohnson.dev",
+        "joined": "October 2017",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 2,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/887661330832003072/Zp6rA_e2_bigger.jpg",
+        "name": "Adam Wathan",
+        "job": "@adamwathan",
+        "link": "adamwathan.me",
+        "joined": "October 2017",
+        "following": 600,
+        "followers": 1500
+    },
+    {
+        "id": 3,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1225613270205091840/NyoNYuhC_bigger.jpg",
+        "name": "Sarah Drasner",
+        "job": "@sarah_edo",
+        "link": "sarah.dev",
+        "joined": "September 2012",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 4,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1201195042972610561/mkQzzfMv_bigger.jpg",
+        "name": "Brad Cornes",
+        "job": "@bradlc",
+        "link": "bradley.dev",
+        "joined": "April 2008",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 5,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1236419663401308161/TgDn9nZ6_bigger.jpg",
+        "name": "Jack McDade",
+        "job": "@jackmcdade",
+        "link": "jackmcdade.com",
+        "joined": "November 2007",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 6,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1145777347670548482/wstXZ8Tc_bigger.jpg",
+        "name": "Jeff Sheldon",
+        "job": "@ugmonk",
+        "link": "Ugmonk.com",
+        "joined": "February 2009",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 7,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/914894066072113152/pWD-GUwG_bigger.jpg",
+        "name": "Taylor Otwell",
+        "job": "@taylorotwell",
+        "link": "laravel.com",
+        "joined": "April 2009",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 8,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1258430863236386817/S4GlUgcb_bigger.jpg",
+        "name": "Matt Stauffer",
+        "job": "@stauffermatt",
+        "link": "mattstauffer.com",
+        "joined": "April 2008",
+        "following": 400,
+        "followers": 2001
+    },
+    {
+        "id": 9,
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1149410967173906433/zw33xFWo_bigger.png",
+        "name": "Eric L. Barnes",
+        "job": "@ericlbarnes",
+        "link": "ericlbarnes.com",
+        "joined": "January 2009",
+        "following": 400,
+        "followers": 2001
+    }
+]

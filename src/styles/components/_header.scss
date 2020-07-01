@@ -1,0 +1,19 @@
+.header {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+
+    &__title {
+        color: $black;
+        font-weight: 700;
+        font-size: 2rem;
+        margin: 0 0 10px;
+    }
+
+    &__subtitle {
+        color: $gray;
+        font-weight: 500;
+        font-size: 1rem;
+        margin: 0;
+    }
+}

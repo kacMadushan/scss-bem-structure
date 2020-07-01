@@ -1,0 +1,9 @@
+// App base styles and settings
+@import './base/settings';
+@import './base/base';
+
+// App components styles
+@import './components/header';
+@import './components/search-bar';
+@import './components/user-list';
+@import './components/user-list-item';

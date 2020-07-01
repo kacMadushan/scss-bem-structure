@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: $gray;
+    font-weight: normal;
+    font-size: 0.9rem;
+    font-family: $base-font;
+    background-color: $white;
+}
+
+a {
+    color: $blue;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+
+    @media (min-width: 576px) {
+        max-width: 540px;
+    }
+
+    @media (min-width: 768px) {
+        max-width: 720px;
+    }
+
+    @media (min-width: 1200px) {
+        max-width: 1140px;
+    }
+
+   
+}
